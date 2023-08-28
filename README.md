@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FunxelDEV
+- 👀 I’m interested in doing modifications for Minecraft bedrock
+- 🌱 I’m currently learning pyton and experimental modding features
+- 📫 You can write on my email smartyboy11102004@gmail.com
